@@ -1,2 +1,0 @@
-/Users/sahooz/Source/opensource/soundpool-plus/soundpool/example/android/app/.cxx/Debug/1q642x3c/x86/CMakeFiles/edit_cache.dir
-/Users/sahooz/Source/opensource/soundpool-plus/soundpool/example/android/app/.cxx/Debug/1q642x3c/x86/CMakeFiles/rebuild_cache.dir

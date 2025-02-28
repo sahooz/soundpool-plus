@@ -24,3 +24,5 @@ soundpool/example/linux/flutter/generated_plugin_registrant.cc
 soundpool/example/linux/flutter/generated_plugin_registrant.h
 soundpool/example/linux/flutter/generated_plugins.cmake
 .idea
+**/.DS_Store
+**/.cxx
